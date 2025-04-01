@@ -4,7 +4,7 @@ Token Wrap: A minimalistic Token Manager (web3 Dashboard)
  
 ## Why TokenWrap?  
 Crypto tools are **overloaded**. TokenWrap solves this with:  
- and **Single-view token tracking**
+  **Single-view token tracking and
  **Gas fee alerts** (Save 20% on transactions)  
  
 
