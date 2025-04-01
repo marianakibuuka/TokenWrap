@@ -1,0 +1,33 @@
+
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background: #040268;
+    color: white;
+    position: fixed;
+    padding: 20px;
+  }
+  
+  .sidebar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .sidebar-menu li {
+    list-style: none;
+    padding: 10px 0;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .sidebar-menu li:hover {
+    color: #ad1919;
+  }
+  
+  .sidebar-menu .active {
+    color: #d1d7db;
+    font-weight: bold;
+  }
